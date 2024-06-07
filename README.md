@@ -4,8 +4,11 @@ Discord bot with slash commands to show challenges needed to acquire gold skins 
 Characteristics:
 
 -Implemented Slash Commands for an intuitive and easy user experience.
+
 -Used Discord API to be able to communicate with discord servers via their token in real time.
+
 -Designed responsive embeds using the Hikari library to present challenge information in a visually appealing format. 
+
 -Utilized object-oriented programming principles to modularize and maintain codebase scalability.
 
 Technologies Used:
